@@ -1,31 +1,14 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloVue msg="Hello Vue" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+  <div>
+    <Header level="1"> Render関数を理解する </Header>
   </div>
 </template>
-
 <script>
-import HelloWorld from './components/HelloWorld.vue';
-import HelloVue from './components/HelloVue.vue';
-
+import Header from './components/Header.vue';
 export default {
-  name: 'App',
+  name: 'app',
   components: {
-    HelloWorld,
-    HelloVue,
+    Header,
   },
 };
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
