@@ -15,7 +15,7 @@ export default {
   },
 };
 </script>
-<!-- kom -->
+<!-- komxxx -->
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
