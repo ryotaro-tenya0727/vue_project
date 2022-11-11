@@ -18,7 +18,7 @@ export default {
 <!-- komssssss -->
 <!-- aaaa -->
 <!-- bbb -->
-
+<!-- new -->
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
