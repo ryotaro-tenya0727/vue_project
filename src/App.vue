@@ -18,9 +18,7 @@ export default {
 
 <!-- komssssss -->
 <!-- aaaa -->
-<!-- lll -->
 
->>>>>>> parent of 3b7e277 (aa)
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -31,3 +29,4 @@ export default {
   margin-top: 60px;
 }
 </style>
+<!-- aaadsfds -->
