@@ -15,10 +15,11 @@ export default {
   },
 };
 </script>
+
 <!-- komssssss -->
 <!-- aaaa -->
-<!-- bbb -->
-<!-- new -->
+
+>>>>>>> parent of 3b7e277 (aa)
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
